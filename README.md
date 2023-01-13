@@ -28,4 +28,9 @@
 </div>
 --------------------------------------------------------------------------------------------------------------------------------------------
 <br>
-  
+
+<div style="display: flex; margin: 0 auto;">
+  <img align="center" alt="PHdaCruzS-LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/pedro-henrique-da-cruz-santos-669748243/">
+  <img align="center" alt="PHdaCruzS-CODPEN" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" href="https://codepen.io/phdacruzsantos">
+  <img align="center" alt="PHdaCruzS-CODPEN" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="phdacruzsantos.dev@gmail.com">
+</div>
