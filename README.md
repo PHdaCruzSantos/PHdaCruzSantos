@@ -30,7 +30,7 @@
 <br>
 
 <div style="display: inline-block">
-  <a href="https://www.linkedin.com/in/pedro-henrique-da-cruz-santos-669748243/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/phdacruzsantos/" target="_blank"> 
     <img align="center" alt="PHdaCruzS-LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://codepen.io/phdacruzsantos" target="_blank">
