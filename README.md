@@ -1,9 +1,5 @@
 <h1 align="center">
-  <span style="display: inline-block; animation: pulse 2s infinite;">✨ Olá! Sou [PH da Cruz S.] ✨</span>
-</h1>
-
-<style>
-  @keyframes pulse {
+  <span style="display: inline-block; animation: pulse 2s infinite;   @keyframes pulse {
     0% {
       color: #6EE7B7;
     }
@@ -13,8 +9,8 @@
     100% {
       color: #6EE7B7;
     }
-  }
-</style>
+  }">✨ Olá! Sou [PH da Cruz S.] ✨</span>
+</h1>
 
 <p align="center">
   Desenvolvedor Web Jr. | Estudante de Sistemas de Informação na <strong>UFOP</strong> 🎓 | Apaixonado por tecnologia e inovação 🚀
@@ -34,25 +30,25 @@
 <h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
 <p align="left">
   <strong>📌 Linguagens Principais:</strong> <br>
-  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/> 
-  <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="25" height="25"/>
+  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> 
+  <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </p>
 
 <p align="left">
   <strong>📚 Frameworks & Bibliotecas:</strong> <br>
-  <img align="center" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="25" height="25"/>
-  <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25" height="25"/>
-  <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/>
-  <img align="center" alt="tailwindcss" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="25" height="25"/>
-  <img align="center" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="25" height="25"/>
+  <img align="center" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
+  <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
+  <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img align="center" alt="tailwindcss" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
+  <img align="center" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
 </p>
 
 <p align="left">
   <strong>⚙️ Ferramentas:</strong> <br>
-  <img align="center" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25" height="25"/>
-  <img align="center" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>
-  <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/>
-  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25"/>
+  <img align="center" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img align="center" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50"/>
 </p>
 
 ---
