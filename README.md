@@ -1,4 +1,21 @@
-<h1 align="center">Olá! 👋 Sou [Seu Nome]</h1>
+<h1 align="center">
+  <span style="display: inline-block; animation: pulse 2s infinite;">✨ Olá! Sou [PH da Cruz S.] ✨</span>
+</h1>
+
+<style>
+  @keyframes pulse {
+    0% {
+      color: #6EE7B7;
+    }
+    50% {
+      color: #3B82F6;
+    }
+    100% {
+      color: #6EE7B7;
+    }
+  }
+</style>
+
 <p align="center">
   Desenvolvedor Web Jr. | Estudante de Sistemas de Informação na <strong>UFOP</strong> 🎓 | Apaixonado por tecnologia e inovação 🚀
 </p>
@@ -16,17 +33,20 @@
 
 <h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
 <p align="left">
-  <strong>📌 Linguagens:</strong> <br>
-  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25"/> 
-  <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25"/>
-  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/>
+  <strong>📌 Linguagens Principais:</strong> <br>
+  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/> 
+  <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="25" height="25"/>
 </p>
+
 <p align="left">
   <strong>📚 Frameworks & Bibliotecas:</strong> <br>
   <img align="center" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="25" height="25"/>
   <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25" height="25"/>
   <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/>
+  <img align="center" alt="tailwindcss" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="25" height="25"/>
+  <img align="center" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="25" height="25"/>
 </p>
+
 <p align="left">
   <strong>⚙️ Ferramentas:</strong> <br>
   <img align="center" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25" height="25"/>
