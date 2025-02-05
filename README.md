@@ -9,7 +9,7 @@
     100% {
       color: #6EE7B7;
     }
-  }">✨ Olá! Sou [PH da Cruz S.] ✨</span>
+  }">✨ Olá! Sou PH da Cruz S. ✨</span>
 </h1>
 
 <p align="center">
