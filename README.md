@@ -57,21 +57,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdacruzsantos&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-### Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phdacruzsantos&theme=dark" alt="GitHub Streak"/>
-</p>
-
-### GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phdacruzsantos&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-### Atividade Recente
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phdacruzsantos&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 ## 📫 Contato
