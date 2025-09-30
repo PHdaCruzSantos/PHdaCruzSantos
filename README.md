@@ -13,7 +13,7 @@
 ## 🌟 Sobre Mim
 
 <p align="left">
-  🎓 Atualmente no 5º período de <strong>Sistemas de Informação</strong> na <strong>UFOP (Universidade Federal de Ouro Preto)</strong>.<br>
+  🎓 Atualmente no 6º período de <strong>Sistemas de Informação</strong> na <strong>UFOP (Universidade Federal de Ouro Preto)</strong>.<br>
   🤝 Participante ativo de projetos de extensão, desenvolvendo soluções para empreendimentos sociais e solidários.<br>
   🌐 Experiência em desenvolvimento <strong>Front-end</strong> e <strong>Back-end</strong>, utilizando tecnologias modernas como <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, e bancos de dados <strong>SQL</strong> e <strong>NoSQL</strong>.<br>
   🚀 Sempre em busca de novos desafios e oportunidades para crescer profissionalmente e contribuir com projetos inovadores.
