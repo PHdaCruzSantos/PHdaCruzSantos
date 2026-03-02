@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+<!-- ## 🚀 Projetos em Destaque
 
 ### 🔹 Integração com Webhooks (Braip → Rapidoc)
 Automação entre plataformas com controle de idempotência, persistência segura e validação estruturada de payload.  
@@ -32,7 +32,7 @@ API REST com separação clara de camadas (Controller → Service → Repository
 **Stack:** Node.js • PostgreSQL • React/Vue
 
 ---
-
+-->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -50,7 +50,7 @@ API REST com separação clara de camadas (Controller → Service → Repository
 
 ---
 
-## 🕹 Pac-Man Contribution Graph
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-dark.svg">
@@ -59,7 +59,7 @@ API REST com separação clara de camadas (Controller → Service → Repository
 </picture>
 
 ---
-
+<!--
 ## ⏳ Coding Time (WakaTime)
 
 <div align="center">
@@ -67,7 +67,7 @@ API REST com separação clara de camadas (Controller → Service → Repository
 </div>
 
 ---
-
+-->
 ## 📫 Contato
 
 <div align="center">
