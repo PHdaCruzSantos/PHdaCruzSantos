@@ -1,94 +1,80 @@
-<h1 align="center">
-  <span style="display: inline-block; animation: pulse 2s infinite;">
-    ✨ Olá! Sou o Pedro Henrique da Cruz S. ✨
-  </span>
-</h1>
+<h1 align="center">Pedro Henrique da Cruz Santos</h1>
 
 <p align="center">
-  Desenvolvedor Júnior. | Estudante de Sistemas de Informação na <strong>UFOP</strong> 🎓 | Apaixonado por tecnologia e inovação 🚀
+  Full Stack Developer • Sistemas de Informação (UFOP) 🎓 <br>
+  Construindo sistemas confiáveis, integrações robustas e arquitetura limpa.
 </p>
 
 ---
 
-## 🌟 Sobre Mim
-
-<p align="left">
-  🎓 Atualmente no 7º período de <strong>Sistemas de Informação</strong> na <strong>UFOP (Universidade Federal de Ouro Preto)</strong>.<br>
-  🤝 Participante ativo de projetos de extensão, desenvolvendo soluções para empreendimentos sociais e solidários.<br>
-  🌐 Experiência em desenvolvimento <strong>Front-end</strong> e <strong>Back-end</strong>, utilizando tecnologias modernas como <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, e bancos de dados <strong>SQL</strong> e <strong>NoSQL</strong>.<br>
-  🚀 Sempre em busca de novos desafios e oportunidades para crescer profissionalmente e contribuir com projetos inovadores.
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,postgres,mongodb,docker,linux,git&theme=dark" />
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Projetos em Destaque
 
-### 📌 Linguagens Principais
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-### 📚 Frameworks & Bibliotecas
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### ⚙️ Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+### 🔹 Integração com Webhooks (Braip → Rapidoc)
+Automação entre plataformas com controle de idempotência, persistência segura e validação estruturada de payload.  
+**Stack:** Node.js • PostgreSQL • Docker
 
 ---
 
-## 📊 Métricas do GitHub
+### 🔹 Extensão Scraper para E-commerce
+Coleta estruturada de dados via análise de requisições e manipulação de DOM.  
+**Stack:** JavaScript • Engenharia reversa leve
 
-### Estatísticas Gerais
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHdaCruzSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHdaCruzSantos&layout=compact&langs_count=7&theme=dark"/>
-</p>
+---
+
+### 🔹 Sistema CRUD Arquitetado
+API REST com separação clara de camadas (Controller → Service → Repository).  
+**Stack:** Node.js • PostgreSQL • React/Vue
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PHdaCruzSantos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHdaCruzSantos&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
+
+---
+
+## 🔥 Commit Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PHdaCruzSantos&theme=github-dark&hide_border=true"/>
+</div>
+
+---
+
+## 🕹 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## ⏳ Coding Time (WakaTime)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHdaCruz&theme=github_dark&hide_border=true"/>
+</div>
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="mailto:phdacruzsantos.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/phdacruzsantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/phdacruzsantos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:phdacruzsantos.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/phdacruzsantos" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-
-<!-- ## 🎨 Projetos Destacados
-
-<p align="left">   🔥 <strong><a href="LINK_DO_PROJETO">Projeto 1</a></strong>: Descrição breve do projeto.<br> 
-  🚀 <strong><a href="LINK_DO_PROJETO">Projeto 2</a></strong>: Descrição breve do projeto.<br>
-  💡 <strong><a href="LINK_DO_PROJETO">Projeto 3</a></strong>: Descrição breve do projeto.<br>
-</p>
----
--->
-
-## 🎈 Curiosidades
-
-<p align="left">
-  🎧 Apaixonado por música, especialmente hip-hop e MPB.<br>
-  🧠 Adoro estudar neurociencia e comportamento.<br>
-  🎮 Gamer nas horas vagas, fã de jogos indie e de estratégia.<br>
-</p>
+</div>
