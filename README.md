@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git&perline=3" alt="Docker, GitHub Actions e Git">
 </p>
 
-## Projetos em destaque
+## Experiência prática em projetos
 
 <p align="center">
   <a href="https://github.com/PHdaCruzSantos/seletto">
@@ -52,13 +52,38 @@
   </a>
 </p>
 
-- **[Seletto Marketplace](https://github.com/PHdaCruzSantos/seletto)** — projeto pessoal em desenvolvimento que uso para praticar e estudar arquitetura de microsserviços. Reúne interfaces para comprador e vendedor, um API Gateway e serviços de autenticação, catálogo e vendas.
-  <br><img src="https://skillicons.dev/icons?i=vue,nodejs,ts,prisma,sqlite,docker&perline=6" alt="Stack do Seletto: Vue, Node.js, TypeScript, Prisma, SQLite e Docker"> <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify">
-- **[MP Buscador](https://github.com/PHdaCruzSantos/buscador-extensao)** — extensão para pesquisar e comparar produtos em diferentes lojas, guardar o histórico e exportar resultados em PDF.
-  <br><img src="https://skillicons.dev/icons?i=react,ts,materialui,vite&perline=4" alt="Stack do MP Buscador: React, TypeScript, Material UI e Vite">
-- **[Jogo de desenho multiplayer](https://github.com/PHdaCruzSantos/TP-RedesDeComputadores-Gartic)** — jogo inspirado no Gartic, com partidas em tempo real.
-  <br><img src="https://skillicons.dev/icons?i=ts,nodejs&perline=2" alt="Stack do jogo multiplayer: TypeScript e Node.js">
-- **[Meu portfólio](https://phdacruzsantos.dev.br/)** — projetos, trajetória e contato.
+### Seletto Marketplace · projeto pessoal de estudo
+
+Projeto em desenvolvimento que uso para praticar arquitetura de microsserviços. Reúne interfaces para comprador e vendedor, um API Gateway e serviços de autenticação, catálogo e vendas.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nodejs,ts,prisma,sqlite,docker&perline=6" alt="Stack do Seletto: Vue, Node.js, TypeScript, Prisma, SQLite e Docker">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify">
+</p>
+
+### MP Buscador · extensão de navegador
+
+Extensão para pesquisar e comparar produtos em diferentes lojas, manter o histórico e exportar resultados em PDF.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,materialui,vite&perline=4" alt="Stack do MP Buscador: React, TypeScript, Material UI e Vite">
+</p>
+
+### Jogo de desenho multiplayer
+
+Projeto inspirado no Gartic, com partidas em tempo real.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs&perline=2" alt="Stack do jogo multiplayer: TypeScript e Node.js">
+</p>
+
+### Portfólio profissional
+
+<a href="https://phdacruzsantos.dev.br/">Acesse meu portfólio</a> para ver projetos, trajetória e contato.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&perline=4" alt="Stack do portfólio: React, TypeScript, Tailwind CSS e Vite">
+</p>
 
 ## Métricas do GitHub
 
@@ -79,6 +104,10 @@
     <img height="170" src="https://streak-stats.demolab.com?user=PHdaCruzSantos&amp;hide_border=true&amp;locale=pt_BR" alt="Sequência e total de contribuições no GitHub">
   </picture>
 </p>
+
+## 🎮 Modo jogo
+
+Escolha uma rota para explorar: [Full Stack · Seletto](https://github.com/PHdaCruzSantos/seletto) · [Extensões · MP Buscador](https://github.com/PHdaCruzSantos/buscador-extensao) · [Tempo real · Gartic](https://github.com/PHdaCruzSantos/TP-RedesDeComputadores-Gartic)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-dark.svg">
