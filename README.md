@@ -178,3 +178,12 @@ Projeto acadêmico de jogo de desenho e adivinhação em tempo real, inspirado n
 ## 🎮 Modo jogo
 
 Escolha uma rota para explorar: [Full Stack · Seletto](https://github.com/PHdaCruzSantos/seletto) · [Extensões · MP Buscador e NewDrops](https://github.com/PHdaCruzSantos/buscador-extensao) · [Redes e tempo real · jogo de desenho](https://github.com/PHdaCruzSantos/TP-RedesDeComputadores-Gartic) · [Abrir demo do Pac-Man](https://abozanona.github.io/pacman-contribution-graph/)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-contribution-graph.svg">
+    <img alt="Animação de Pac-Man no gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
