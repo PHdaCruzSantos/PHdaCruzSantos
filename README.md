@@ -1,80 +1,33 @@
-<h1 align="center">Pedro Henrique da Cruz Santos</h1>
+# Pedro Henrique da Cruz Santos
 
 <p align="center">
-  Full Stack Developer • Sistemas de Informação (UFOP) 🎓 <br>
-  Construindo sistemas confiáveis, integrações robustas e arquitetura limpa.
+  Desenvolvedor Full Stack · Estudante de Sistemas de Informação na UFOP<br>
+  Desenvolvo aplicações web, APIs e extensões de navegador, com foco em soluções úteis e código bem organizado.
 </p>
 
----
+## Sobre mim
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,postgres,mongodb,docker,linux,git&theme=dark" />
-</div>
+Gosto de trabalhar em diferentes partes de um produto — da interface à lógica de negócio — e de aprender construindo projetos. Neste perfil, compartilho projetos pessoais, estudos e experimentos.
 
----
+## Tecnologias
 
-<!-- ## 🚀 Projetos em Destaque
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,postgres,mongodb,docker,vite,tailwind,git&theme=dark" alt="TypeScript, JavaScript, Node.js, React, Vue, PostgreSQL, MongoDB, Docker, Vite, Tailwind CSS e Git">
+</p>
 
-### 🔹 Integração com Webhooks (Braip → Rapidoc)
-Automação entre plataformas com controle de idempotência, persistência segura e validação estruturada de payload.  
-**Stack:** Node.js • PostgreSQL • Docker
+## Projetos em destaque
 
----
+- **[Portfólio profissional](https://github.com/PHdaCruzSantos/portifolio)** — site pessoal desenvolvido com React, TypeScript, Tailwind CSS e Vite.
+- **[MP Buscador](https://github.com/PHdaCruzSantos/buscador-extensao)** — extensão de navegador para pesquisar e comparar produtos em diferentes lojas, consultar o histórico e exportar resultados em PDF.
+- **[Jogo de desenho multiplayer](https://github.com/PHdaCruzSantos/TP-RedesDeComputadores-Gartic)** — jogo em tempo real inspirado no Gartic, desenvolvido com TypeScript, Node.js e WebSockets.
 
-### 🔹 Extensão Scraper para E-commerce
-Coleta estruturada de dados via análise de requisições e manipulação de DOM.  
-**Stack:** JavaScript • Engenharia reversa leve
+## Contato
 
----
-
-### 🔹 Sistema CRUD Arquitetado
-API REST com separação clara de camadas (Controller → Service → Repository).  
-**Stack:** Node.js • PostgreSQL • React/Vue
-
----
--->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170em" src="https://github-stats.vercel.app/api?username=PHdaCruzSantos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHdaCruzSantos&layout=compact&theme=github_dark&hide_border=true"/> -->
-</div>
-
----
-
-## 🔥 Commit Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PHdaCruzSantos&theme=github-dark&hide_border=true"/>
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PHdaCruzSantos/PHdaCruzSantos/output/pacman.svg">
-</picture>
-
----
-<!--
-## ⏳ Coding Time (WakaTime)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHdaCruz&theme=github_dark&hide_border=true"/>
-</div>
-
----
--->
-## 📫 Contato
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/phdacruzsantos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:phdacruzsantos.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-</div>
+</p>
